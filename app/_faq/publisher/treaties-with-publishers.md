@@ -1,5 +1,5 @@
 ---
-q: What publishers has Harvard negotiated agreements with to clarify the policies and simplify procedures?
+q: What publishers has Harvard negotiated agreements with to clarify the open-access policies and simplify procedures?
 order: 1
 anchor: treaties-with-pubishers
 type: publisher treaties
