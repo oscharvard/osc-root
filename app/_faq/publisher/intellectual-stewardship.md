@@ -6,4 +6,4 @@ type: copyright and licensing
 
 publisher-faq: include
 ---
-No. The open-access policies do not prevent you from acquiring exclusive rights under copyright (subject to the prior license to Harvard), and you may still enforce those rights in any way you see fit. Further, you may even pursue infringements of moral rights on behalf of authors (for instance, cases of plagiarism). The prior license to Harvard does not vitiate your abilities to support authors in this way.
+No. The open-access policies do not prevent you from acquiring exclusive rights under copyright, and you may still enforce those rights in any way you see fit. Further, you may even pursue infringements of moral rights on behalf of authors (for instance, cases of plagiarism). The nonexclusive license to Harvard does not vitiate your abilities to support authors in this way.
