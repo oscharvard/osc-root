@@ -1,6 +1,6 @@
 ---
 q: What version of the article will the author submit to the University repository? When will it be provided?
-order: 2
+order: 6
 anchor: version-to-be-deposited
 type: versions
 
