@@ -1,6 +1,6 @@
 ---
 q: Does the Harvard Open Access Policy interfere with our ability to serve as an intellectual steward for articles we publish, for instance, pursuing illegal copying or plagiarism?
-order: 8
+order: 3
 anchor: intellectual-stewardship
 type: copyright and licensing
 
