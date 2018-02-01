@@ -6,4 +6,4 @@ type: versions
 
 publisher-faq: include
 ---
-When applicable, the license covers any version of the article to which the author holds copyright (or held copyright before it was transferred) or which the author otherwise has the right to allow Harvard to use in this way.
+The license covers any version of the article to which the author holds copyright (or held copyright before it was transferred) or which the author otherwise has the right to allow Harvard to use in this way.
