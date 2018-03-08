@@ -2,7 +2,7 @@
 q: What versions of articles does DASH make open access?
 order: 3
 anchor: version-to-be-deposited
-type: versions
+type: copyright and licensing
 
 publisher-faq: include
 ---
