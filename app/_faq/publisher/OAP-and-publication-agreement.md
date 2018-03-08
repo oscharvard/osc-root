@@ -1,11 +1,13 @@
 ---
-q: Our standard publication agreement is inconsistent with the Harvard policies. Does this mean that we can no longer publish papers by Harvard authors?
+q: Our standard publication agreement is inconsistent Harvard's open-access license. Does this mean we can no longer publish papers by Harvard authors?
 order: 4
 anchor: OAP-and-publication-agreement
 type: copyright and licensing
 
 publisher-faq: include
 ---
-No. Harvard's prior non-exclusive license takes precedence but allows the author to transfer non-exclusive publication and other rights. Harvard authors may use an addendum specifically designed to make publication agreements consistent with the applicable policy.
+No. When an article is subject to the Harvard license, the author may still transfer _non-exclusive_ publication and other rights to a publisher. The Office for Scholarly Communication invites publishers to accommodate university open-access policies in their author agreements just as they have done for open-access policies at funding agencies. 
 
-A sample copy of the addendum is available, which includes the basic addendum and some optional paragraphs that authors may add but that are not required for consistency with the policy. However, regardless of whether an addendum is used, unless the author directs that a waiver be granted of Harvard's rights for a particular work completed after the policy went into effect, Harvard's license stands.''
+Alternatively, Harvard authors may [use an addendum](https://osc.hul.harvard.edu/dash/addendum/) to make publication agreements consistent with Harvard policies.    
+
+Finally, authors may [obtain waivers](https://osc.hul.harvard.edu/authors/faq/#how-to-waive) from the Harvard license.
