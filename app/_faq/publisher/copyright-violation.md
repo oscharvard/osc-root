@@ -1,6 +1,6 @@
 ---
 q: Whom should we contact if we believe that a paper on a Harvard web site violates our copyright?
-order: 4
+order: 5
 anchor: copyright-violation
 type: copyright and licensing
 
