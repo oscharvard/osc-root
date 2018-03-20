@@ -1,6 +1,6 @@
 ---
 q: What if a journal publisher refuses to publish my article because of this prior license?
-order: 15
+order: 17
 anchor: publisher-objection
 type: concerns
 
