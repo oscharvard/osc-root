@@ -1,6 +1,6 @@
 ---
 q: Should I take the license to Harvard into account if I am seeking permission from a third party to incorporate the third party's material (such as, for example, an image) in the published article?
-order: 10
+order: 13
 anchor: third-party-permissions
 type: details
 

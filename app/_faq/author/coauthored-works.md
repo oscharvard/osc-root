@@ -1,6 +1,6 @@
 ---
 q: Does the policy apply to co-authored papers?
-order: 8
+order: 11
 anchor: coauthored-works
 type: details
 
