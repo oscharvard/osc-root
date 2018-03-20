@@ -4,7 +4,7 @@ order: 10
 anchor: individual-license
 type: basic
 
-author-faq: NOT READY
+author-faq: include
 ---
 This a voluntary open-access license that any Harvard researchers may choose for their own scholarly articles. Because Harvard faculty are already covered by open-access licenses through the [school-level open-access policies](https://osc.hul.harvard.edu/policies/), in practice the individual open-access license is for non-faculty researchers, such as administrators, librarians, staff, postdocs, fellows, and students. 
 
