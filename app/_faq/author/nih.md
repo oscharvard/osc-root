@@ -1,6 +1,6 @@
 ---
 q: What if my article is also subject to the NIH Public Access Policy?
-order: 11
+order: 14
 anchor: nih
 type: details
 
