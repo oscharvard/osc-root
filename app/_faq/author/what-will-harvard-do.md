@@ -1,6 +1,6 @@
 ---
 q: What will Harvard do with the articles covered by its license?
-order: 8
+order: 9
 anchor: what-will-harvard-do
 type: basic
 
