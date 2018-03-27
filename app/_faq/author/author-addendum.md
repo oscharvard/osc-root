@@ -1,9 +1,11 @@
 ---
 q: What is an author addendum?
-order: 4
+order: 26
 anchor: author-addendum
-type: basic
+type: using an author addendum
 
 author-faq: include
 ---
-An "author addendum" is a simple legal tool. The typical addendum is a short document, used to amend the agreement issued by a publisher.  For more information on author addenda, visit the section of our site dedicated to amending your publishing agreement.
+An author addendum is a proposed modification of a publishing contract. If accepted by the publisher, it modifies the contract, for example, in order to take proper account of the Harvard open-access  license or to allow author to retain rights that would otherwise have been transferred to the publisher. 
+
+Here is a [sample addendum](https://osc.hul.harvard.edu/sample_addendum/) developed specifically to deal with the prior license granted to Harvard.
