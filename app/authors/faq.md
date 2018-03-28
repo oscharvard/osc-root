@@ -8,6 +8,7 @@ categories:
   - basic
   - details
   - concerns
+  - depositing articles in dash
   - using an author addendum 
 ---
 
