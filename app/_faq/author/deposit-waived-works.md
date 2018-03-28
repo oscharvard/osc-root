@@ -1,14 +1,14 @@
 ---
-q: Should I include my article in the Harvard repository even if I have gotten a waiver for it?
-order: 6
+q: Should I include my article in DASH even if I have gotten a waiver for it?
+order: 20
 anchor: deposit-waived-works
-type: basic
+type: depositing articles in dash
 
 author-faq: include
 ---
 
-Yes. The repository accepts not only articles covered by the license granted to Harvard under the Open Access Policy, but also articles not covered by the license.
+Yes. If your article cannot be made publicly available because you [obtained a waiver](#how-to-waive) of the Harvard license, we encourage you to deposit a copy in [DASH](https://dash.harvard.edu/), Harvard's open-access repository. We will make it "dark". We will not make the text open access, but will store it for preservation purposes. We will provide open access to the metadata or bibliographic information, to facilitate indexing by search engines and public awareness of your article.
 
-Even if you take a waiver, the publisher's agreement may provide, or you may be able to negotiate, sufficient rights to allow copies of your article to be made publicly available in the Harvard repository. The publisher may ask that certain conditions be met, some of which the repository can accommodate (for example, an embargo period during which the article will not be made publicly available). Information about publishers' standard policies on open access is available from the SHERPA/RoMEO project (though Harvard has not verified the accuracy of that information).
+Even if you obtain a waiver, the publisher's agreement may provide sufficient rights to allow copies of your article to be made publicly available through the Harvard repository. You may also be able to negotiate these rights. 
 
-Further, even if your article cannot be made publicly available, you are encouraged to deposit a copy in the repository under the "metadata only" option, which stores a copy in the repository for archival purposes and provides bibliographic information that can be included in an online index of scholarly articles by Harvard members. The bibliographic information will be made available for broad harvesting and indexing by search engines, in order to increase awareness of your article. This will enable your article more readily to be found, even if a copy cannot be made available to others through the repository.
+The publisher may ask that certain conditions be met, some of which the repository can accommodate (for example, an embargo period during which the article will not be made publicly available). Information about publishers' standard policies on open access is available from the [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php) project (though Harvard has not verified the accuracy of that information).
