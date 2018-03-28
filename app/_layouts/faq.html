@@ -27,12 +27,12 @@ breadcrumbs: true
 
 {% for category in page.categories %}{% assign wrapped-group = filtered-questions | where: 'name', category %}
 {% for group in wrapped-group %}
-<h2 id="group-{{group.name | underscore | downcase}}">{{group.name | upcase}}</h2>
+<h2 id="group-{{group.name | replace: ' ', '_' | downcase}}">{{group.name | upcase}}</h2>
 {% for question in group.items %}
   <h3 id="{{question.anchor}}" class="long-list-heading"><span>Q:</span> {{question.q}}</h3>
   <div class="long-list-content">{{question.content}}
     <ul class="section-links">
-      <li><a href="#group-{{group.name | underscore | downcase}}">Return to <strong>{{group.name | capitalize}}</strong></a></li>
+      <li><a href="#group-{{group.name | replace: ' ', '_' | downcase}}">Return to <strong>{{group.name | capitalize}}</strong></a></li>
       <li><a href="#top">Return to top</a></li>
     </ul>
   </div>

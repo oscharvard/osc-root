@@ -117,8 +117,8 @@ generate-your-addendum:
   call-to-action: "Amend a publisher's agreement."
 
 addenda-faqs:
-  heading: Author Addenda FAQs
-  link-to: /authors/amend/faq/
+  heading: Author FAQs
+  link-to: /authors/faq/#group-using_an_author_addendum
   call-to-action: Get answers to commonly-asked questions.
 
 generate-your-waiver:
