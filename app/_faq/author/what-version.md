@@ -1,12 +1,12 @@
 ---
 q: What version of a scholarly article should authors deposit in the repository?
-order: 2
+order: 7
 anchor: what-version
-type: basic
+type: policy and license basics
 
 author-faq: include
 ---
-The policies ask authors to deposit "the final version of the article". But since our policies were adopted, the more self-explanatory term "accepted author manuscript" has become more widely accepted for describing the version we have in mind.
+The [policies](https://osc.hul.harvard.edu/policies/) ask authors to deposit "the final version of the article". But since our policies were adopted, the more self-explanatory term "accepted author manuscript" has become more widely accepted for describing the version we have in mind.
 
 The accepted author manuscript of a work is the version approved by peer review, or the last version the author sends to the publisher after peer review. It does not include unilateral edits made by the journal after peer review, or the journal's look and feel.
 
