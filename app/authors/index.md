@@ -20,7 +20,7 @@ title: For Authors
 # - publisher-treaties
 ---
 
-The OSC supports all Harvard faculty and affiliates as you publish  and make decisions regarding your scholarly works. Our [Open Access Policy FAQ]({{site.baseurl}}/policies/faq/) and [Author FAQ]({{site.baseurl}}/authors/faq/) are designed to help you understand how the Open Access Policy affects you, and our [Copyright Advisor and First Responders]({{site.baseurl}}/programs/copyright/) are available to answer your questions about copyright and fair use.
+The OSC supports all Harvard faculty and affiliates as you publish  and make decisions regarding your scholarly works. Our [Author FAQ]({{site.baseurl}}/authors/faq/) will help you understand how the Open Access Policy affects you, and our [Copyright Advisor and First Responders]({{site.baseurl}}/programs/copyright/) are available to answer your questions about copyright and fair use.
 
 ## DASH
 
