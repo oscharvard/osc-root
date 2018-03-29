@@ -1,8 +1,8 @@
 ---
 q: What are the advantages for authors?
-order: 8
+order: 4
 anchor: advantages
-type: basic
+type: why open access
 
 author-faq: include
 ---
