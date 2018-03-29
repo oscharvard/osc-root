@@ -7,7 +7,7 @@ which-faq: author
 categories:
   - basic
   - details
-  - concerns
+  - common concerns
   - depositing articles in dash
   - using an author addendum 
 ---
