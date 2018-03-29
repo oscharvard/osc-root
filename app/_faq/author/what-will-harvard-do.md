@@ -1,8 +1,8 @@
 ---
 q: What will Harvard do with the articles covered by its license?
-order: 9
+order: 5
 anchor: what-will-harvard-do
-type: basic
+type: why open access
 
 author-faq: include
 ---
