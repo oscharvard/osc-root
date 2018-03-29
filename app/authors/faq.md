@@ -5,7 +5,7 @@ title: Author Frequently Asked Questions
 
 which-faq: author
 categories:
-  - basic
+  - why open access?
   - policy and license basics
   - common concerns
   - depositing articles in dash
