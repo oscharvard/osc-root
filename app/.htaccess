@@ -159,6 +159,9 @@ RedirectMatch 301 ^/sites/default/files/webform/(.*)/(.*) /dash/sites/default/fi
 # Redirect for little-used route to FAR feed
 RedirectMatch 301 ^/services/dash/far/(.*) /dash/api/far/$1
 
+# Redirect removed OAP FAQ to authors
+Redirect 302 /policies/faq/ /authors/faq/
+
 # Various rewrite rules.
 <IfModule mod_rewrite.c>
   RewriteEngine on
