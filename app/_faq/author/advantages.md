@@ -2,7 +2,7 @@
 q: What are the advantages for authors?
 order: 4
 anchor: advantages
-type: why open access
+type: why open access?
 
 author-faq: include
 ---
