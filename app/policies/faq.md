@@ -1,7 +1,7 @@
 ---
 layout: faq-notcategorized
 sidebar: faq
-title: OAP Frequently Asked Questions
+title: Author Frequently Asked Questions
 
-which-faq: oap
+which-faq: author
 ---
