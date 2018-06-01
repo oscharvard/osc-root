@@ -1,6 +1,6 @@
 ---
 q: Will Harvard ever sell articles for profit or allow others to do so?
-order: 17
+order: 19
 anchor: never-for-profit
 type: common concerns
 

@@ -1,6 +1,6 @@
 ---
 q: Is the university acquiring ownership of my writing?
-order: 16
+order: 18
 anchor: you-retain-rights
 type: common concerns
 

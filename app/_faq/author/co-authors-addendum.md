@@ -1,6 +1,6 @@
 ---
 q: What if my article has co-authors?
-order: 28
+order: 30
 anchor: co-authors-addendum
 type: using an author addendum
 

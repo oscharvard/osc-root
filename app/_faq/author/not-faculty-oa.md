@@ -1,6 +1,6 @@
 ---
 q: What if I'm a non-faculty author and would like my scholarly articles to be covered by an open-access license?
-order: 13
+order: 14
 anchor: not-faculty-oa
 type: policy and license basics
 

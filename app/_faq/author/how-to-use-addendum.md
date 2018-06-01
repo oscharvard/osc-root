@@ -1,6 +1,6 @@
 ---
 q: How do I use an author addendum?
-order: 27
+order: 29
 anchor: how-to-use-addendum
 type: using an author addendum
 

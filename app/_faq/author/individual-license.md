@@ -1,6 +1,6 @@
 ---
 q: What is the individual open-access license?
-order: 14
+order: 16
 anchor: individual-license
 type: policy and license basics
 

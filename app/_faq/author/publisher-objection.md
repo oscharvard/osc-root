@@ -1,6 +1,6 @@
 ---
 q: What if a journal publisher refuses to publish my article because of this prior license to Harvard?
-order: 18
+order: 20
 anchor: publisher-objection
 type: common concerns
 
