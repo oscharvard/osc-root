@@ -1,6 +1,6 @@
 ---
 q: What if the journal publisher refuses to accept my addendum or wants to negotiate it?
-order: 29
+order: 31
 anchor: publisher-rejects-addendum
 type: using an author addendum
 
