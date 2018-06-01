@@ -1,6 +1,6 @@
 ---
 q: What if a publisher tells me I don't need the addendum because the publisher's agreement already permits immediate posting of the article in an institutional open-access repository?
-order: 30
+order: 32
 anchor: publisher-says-addendum-unnecessary
 type: using an author addendum
 
