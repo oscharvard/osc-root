@@ -1,6 +1,6 @@
 ---
 q: What is a dark deposit?
-order: 22
+order: 24
 anchor: dark-deposit
 type: depositing articles in dash
 
