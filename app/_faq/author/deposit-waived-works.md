@@ -1,6 +1,6 @@
 ---
 q: Should I include my article in DASH even if I have gotten a waiver for it?
-order: 20
+order: 22
 anchor: deposit-waived-works
 type: depositing articles in dash
 
