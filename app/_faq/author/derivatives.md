@@ -1,6 +1,6 @@
 ---
 q: Can my articles be used as the basis of derivative works by other authors?
-order: 15
+order: 17
 anchor: derivatives
 type: common concerns
 
