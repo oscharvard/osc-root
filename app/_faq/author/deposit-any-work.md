@@ -1,6 +1,6 @@
 ---
 q: Should I include my article in DASH even if the work is not covered by the Harvard license?
-order: 21
+order: 23
 anchor: deposit-any-work
 type: depositing articles in dash
 
