@@ -2,6 +2,6 @@
 {% assign target = include.link-to %}
 <ul class="community-list">
 {% for policy in policies %}
-  <li><a href="{{site.baseurl}}/{{target}}/{{policy.abbr | downcase}}/">{{ policy.abbr }}</a></li>
+  <li><a href="{{site.baseurl}}/{{target}}/{% if policy.slug %}{{policy.slug | downcase}}{% else %}{{policy.abbr | downcase}}{% endif %}/">{{ policy.abbr }}</a></li>
 {% endfor %}
 </ul>
