@@ -2,8 +2,8 @@
 org: Harvard Individual
 type: individual
 abbr: Individual Open Access Licence
-slug: IOAL
-home: https://osc.hul.harvard.edu/policies/IOAL
+slug: ioal
+home: https://osc.hul.harvard.edu/policies/ioal
 logo: generic_veritas.png
 adoption-date: June 7, 2018
 quotes:
