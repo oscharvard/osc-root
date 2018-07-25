@@ -2,9 +2,9 @@
 layout: right-sidebar
 ---
 {% if  page.breadcrumbs == true %}
-  <h1 class="after-breadcrumb">{{ page.org }} <br> Open Access Policy {% if page.affirmation %}Affirmation{% endif %}</h1>
+  <h1 class="after-breadcrumb">{{ page.org }} <br> {% if page.type_of_right %}{{ page.type_of_right }}{% else %} Open Access Policy{% endif %} {% if page.affirmation %}Affirmation{% endif %}</h1>
 {% else %}
-  <h1>{{ page.org }} <br> Open Access Policy {% if page.affirmation %}Affirmation{% endif %}</h1>
+  <h1>{{ page.org }} <br> {% if page.type_of_right %}{{ page.type_of_right }}{% else %}Open Access Policy{% endif %} {% if page.affirmation %}Affirmation{% endif %}</h1>
 {% endif %}
 
 <p class="policy-adoption">Adopted {{ page.adoption-date }}</p>

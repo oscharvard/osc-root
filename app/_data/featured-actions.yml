@@ -125,3 +125,8 @@ generate-your-waiver:
   heading: Generate Your Waiver
   link-to: https://osc.hul.harvard.edu/dash/waiver/
   call-to-action: "Waive Harvard's license for an article."
+
+oa-memberships:
+  heading: OA Memberships
+  link-to: /publishers/oamemberships
+  call-to-action: OA membership proposals or another kind of support for OA.

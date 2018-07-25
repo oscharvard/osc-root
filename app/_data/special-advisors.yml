@@ -2,9 +2,21 @@
   name: Amy Brand
   title: Director, MIT Press
 
+- name: Maura Carbone
+  title: IT Project Manager, Beinecke Rare Book and Manuscript Library, Yale University
+
+-
+  name: Becky Cremona
+  title:  Developer, Harvard Library Innovation Lab
+
+-
+  name: Colleen Cressman
+  title: Student Success &amp; Assessment Librarian, Framingham State University
+
 -
   name: Reinhard Engels
   title: Manager of Innovation &amp; Technology at Cambridge Public Library
+
 -
   name: Sue Kriegsman
   title: Associate Director, Berkman Center for Internet &amp; Society, Harvard University
@@ -16,7 +28,3 @@
 -
   name: Ben Steinberg
   title:  DevOps Engineer, Harvard Library Innovation Lab
-
--
-  name: Becky Cremona
-  title:  Developer, Harvard Library Innovation Lab

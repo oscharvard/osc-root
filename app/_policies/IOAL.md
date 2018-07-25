@@ -4,6 +4,7 @@ type: individual
 abbr: Individual Open Access Licence
 slug: ioal
 home: https://osc.hul.harvard.edu/policies/ioal
+type_of_right: Open-Access License
 logo: generic_veritas.png
 adoption-date: June 7, 2018
 quotes:
