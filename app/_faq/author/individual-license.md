@@ -12,7 +12,7 @@ Through the school-level open-access policies, faculty grant Harvard certain non
 
 Just as faculty may obtain [waivers](#how-to-waive) from their open-access license, those who sign the individual open-access license may also obtain waivers.
 
-*Signing the individual license*
+To sign the Individual Open-Access License, just sign our [assistance authorization form](https://osc.hul.harvard.edu/dash/authorization/).
 
 The license works best when authors sign it before they sign publishing contracts. For that reason, and because it permits waivers for any given work, we encourage interested authors to sign the open-access license soon, or before they publish their next scholarly article.
 

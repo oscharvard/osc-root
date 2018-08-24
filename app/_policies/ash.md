@@ -4,7 +4,7 @@ type: center
 abbr: Ash
 home: https://ash.harvard.edu/
 logo: hks.png
-adoption-date: June 28, 2017
+adoption-date: June 28, 2018
 affirmation: false
 ---
 

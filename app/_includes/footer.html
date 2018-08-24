@@ -3,10 +3,14 @@
     <div class="row">
       <div class="footer-info col-md-9">
         {% include social.html %}
-        <p><abbr title="email">e</abbr>: <a href="mailto:{{site.email}}">{{site.email}}</a></p>
-        <p><abbr title="telephone">t</abbr>: <a href="tel:{{site.phone | remove: " " | remove: "(" | remove: ")"}}">{{site.phone}}</a></p>
-        <p><abbr title="fax">f</abbr>: <a href="fax:{{site.fax | remove: " " | remove: "(" | remove: ")"}}">{{site.fax}}</a></p>
-        <small> &copy; 2015 President and Fellows of Harvard College</small>
+        <ul class="list-unstyled contact">
+          <li><abbr title="email">e</abbr>: <a href="mailto:{{site.email}}">{{site.email}}</a></li>
+          <li><abbr title="telephone">t</abbr>: <a href="tel:{{site.phone | remove: " " | remove: "(" | remove: ")"}}">{{site.phone}}</a></li>
+          <li><abbr title="fax">f</abbr>: <a href="fax:{{site.fax | remove: " " | remove: "(" | remove: ")"}}">{{site.fax}}</a></li>
+        </ul>
+        <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="{{site.baseurl}}/assets/img/ccby88x31.png" /></a></p>
+        <p>Unless an exception applies, certain textual content on this web page is subject to a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. The Harvard Library CC BY License allows anyone to share and adapt that content as long as proper attribution is given and the license terms are followed.  For information about what is covered by the CC BY license, as well as general exceptions, see the <a href="https://osc.hul.harvard.edu/programs/copyright/ccby/">Harvard Library CC BY Copyright Statement</a>.</p>
+        <small> &copy; 2018 President and Fellows of Harvard College</small>
       </div>
       <nav role="navigation" aria-label="footer nav" class="col-md-3">
         <ul class="list-unstyled">
