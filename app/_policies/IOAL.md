@@ -17,3 +17,5 @@ Authors at Harvard University are committed to disseminating the fruits of their
 I will provide an electronic copy of the author’s accepted manuscript of each article no later than the date of its publication at no charge to the appropriate representative of the OSC in an appropriate format (such as PDF) specified by the OSC.
 
 If I am a non-faculty employee or affiliate of Harvard University, and my work is normally covered by the work-for-hire doctrine, then I understand that this license only applies to my scholarly articles not covered by that doctrine.
+
+To sign the Individual Open-Access License, just sign our [assistance authorization form](https://osc.hul.harvard.edu/dash/authorization/).
