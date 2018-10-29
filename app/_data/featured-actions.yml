@@ -3,7 +3,7 @@
 
 submit-to-dash:
   heading: Submit to DASH
-  link-to: https://osc.hul.harvard.edu/dash/quicksubmit/
+  link-to: https://dash.harvard.edu/handle/1/37363045/submit
   call-to-action: "Submit your scholarly work to DASH, Harvard's open-access repository."
 
 author-faqs:
@@ -123,7 +123,7 @@ addenda-faqs:
 
 generate-your-waiver:
   heading: Generate Your Waiver
-  link-to: https://osc.hul.harvard.edu/dash/waiver/
+  link-to: https://dash.harvard.edu/handle/1/37363046/submit
   call-to-action: "Waive Harvard's license for an article."
 
 oa-memberships:

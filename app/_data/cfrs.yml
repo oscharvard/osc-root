@@ -13,13 +13,6 @@
   phone: 617-432-6784
 
 -
-  name: Liza F. Vick
-  title:  Music Reference and Research Librarian
-  location: Eda Kuhn Loeb Music Library
-  email: lizavick@fas.harvard.edu
-  phone:  617-495-2794
-
--
   name: Joanne Bloom
   title: Photographic Resources Librarian
   location: Fine Arts Library
@@ -69,13 +62,6 @@
   phone: 617-495-4454
 
 -
-  name: Carli Spina
-  title: Emerging Technologies and Research Librarian
-  location: Law Library
-  email: cspina@law.harvard.edu
-  phone: 617-496-8150
-
--
   name: Maggie E. Hale
   title: Librarian for Collections Digitization
   location: Preservation Services
@@ -83,25 +69,11 @@
   phone: 617-384-9405
 
 -
-  name: Dorothy Barr
-  title: Library Professional
-  location: Ernst Mayr Library
-  email: dbarr@oeb.harvard.edu
-  phone: 617-495-1348
-
--
   name: Jessica Evans Brady
   title: Research and Collections Librarian
   location: Fine Arts Library
   email: jevansbrady@fas.harvard.edu
   phone:
-
--
-  name: Alison Harris
-  title: Project Manager/Collection Cataloger
-  location: Harvard College Library
-  email: adharris@fas.harvard.edu
-  phone: 617-496-2451
 
 -
   name: Kristin Stoklosa
@@ -116,13 +88,6 @@
   location: Harvard Library
   email: noelle_ryan@harvard.edu
   phone: 617-384-7437
-
--
-  name: Kim Dulin
-  title: Associate Director for Collection Development and Digitization
-  location: Law Library
-  email: kdulin@law.harvard.edu
-  phone: 617-496-3292
 
 -
   name: Diana Carey
@@ -181,13 +146,6 @@
   phone: 617-384-7983
 
 -
-  name: Nicholas Redler
-  title: Archives Assistant
-  location: Case Services Center - Rights and Permissions
-  email: nredler@hbs.edu
-  phone: 617-495-6410
-
--
   name: Susan Gilman
   title: Research Librarian
   location: Harvard College Library
@@ -229,9 +187,62 @@
   email: vitaly_zakuta@harvard.edu
   phone: 617-998-5459
 
--
-  name: Sarah Kinne
-  title: Staff Assistant
+- name: Heather Oswald
+  title: Manager, Public Services, Special Collections
+  location: Baker Library
+  email: hoswald@hbs.edu
+  phone: 617-496-7944
+
+- name: Carolyn Damon Hayes
+  title: Acquisitions Archivist
+  location: Countway Medical Library
+  email: carolyn_hayes@hms.harvard.edu
+  phone: 617-432-1324
+
+- name: Carla M. Lillvik
+  title: Research & Distance Services Librarian
+  location: Gutman Library
+  email: carla_lillvik@gse.harvard.edu
+  phone: 617-496-0682
+
+- name: Anne-Marie Taylor
+  title: Resource Sharing Coordinator
+  location: Harvard Library
+  email: antaylor@law.harvard.edu
+  phone: 617-495-5093
+
+- name: Christina H. Sirios
+  title: Associate Director of Library and Knowledge Services
+  location: Kennedy Library
+  email: christina_sirois@hks.harvard.edu
+  phone: 617-495-5078
+
+- name: Corrinne Wolfson
+  title: Digital Collections Coordinator
+  location: Kennedy Library
+  email: corinne_wolfson@hks.harvard.edu
+  phone: 617-495-4882
+
+- name: Emily Coolidge Toker
+  title: Learning Technology Specialist
+  location: Lamont Library
+  email: emily_coolidgetoker@harvard.edu
+  phone: 617-496-2373
+
+- name: Colin Lukens
+  title: Repository Manager
   location: Office for Scholarly Communication
-  email: sarah_kinne@harvard.edu
-  phone: 617-495-1277
+  email: colin_lukens@harvard.edu
+  phone: 617-495-1269
+
+- name: Joanne Donovan
+  title: Lead Archivist, Visual Materials and Recorded Sound Collections
+  location: Schlesinger Library
+  email: jdonovan@radcliffe.harvard.edu
+  phone: 617-495-8551
+
+- name: Olivia Mandica-Hart
+  title: Processing Archivist
+  location: University Archives
+  email: olivia_mandica-hart@harvard.edu
+  phone: 617-998-5240
