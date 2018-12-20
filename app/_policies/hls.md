@@ -3,7 +3,7 @@ org: Harvard Law School
 type: school
 abbr: HLS
 home: http://www.law.harvard.edu/
-logo: hls.png
+logo: generic_veritas.png
 adoption-date: May 1, 2008
 quotes:
   - Each Faculty member grants to the President and Fellows of Harvard College permission to make available his or her scholarly articles and to exercise the copyright in those articles.
