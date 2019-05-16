@@ -1,17 +1,9 @@
--
-  name: Peter Suber
-  title: Director
+  name: Anne Britton
+  title: Open Access Assistant
   current: true
   bio: |
-     Peter Suber is the Director of the Harvard Office for Scholarly Communication, Director of the Harvard Open Access Project, and a Senior Researcher at the Berkman Klein Center for Internet & Society. By training he's a philosopher and lawyer, and gave up his position as a tenured full professor of philosophy in 2003 to work full-time on open access. He was the principal drafter of the Budapest Open Access Initiative, sits on the boards of many groups devoted to open access and scholarly communication, and has been active in fostering open access for many years through his research, speaking, and writing. For more information, see [his home page](https://bit.ly/petersuber).
-
--
-  name: Stuart M. Shieber
-  title: Faculty Director
-  current: true
-  bio: |
-     Stuart Shieber is James O. Welch, Jr. and Virginia B. Welch Professor of Computer Science in the School of Engineering and Applied Sciences at Harvard, and the OSC's faculty director. His primary research field is computational linguistics, the study of human languages from the perspective of computer science. He was the founding director of the Center for Research on Computation and Society and is a co-director of the Berkman Center for Internet and Society. Professor Shieber led Harvard's efforts to institute open-access policies leading to the policies now in place at Harvard and emulated elsewhere.
-
+    Anne Britton has served as a research assistant at the Harvard Open Access Project. She holds a Masters of Library Science from Simmons College. 
+    
 -
   name: Kyle K. Courtney
   title: Program Manager and Copyright Advisor
@@ -20,11 +12,39 @@
     Kyle K. Courtney is an attorney who works closely with Harvard Library to establish a culture of shared understanding of copyright issues among Harvard staff, faculty, and students. Kyle also works with the Office of General Counsel on intellectual property issues associated with the newly created HarvardX classes. Before joining the OSC, Kyle worked at Harvard Law School as the manager of Faculty Research and Scholarship. He currently maintains a dual appointment at Northeastern University as a Faculty Scholar for the Program on Human Rights and the Global Economy (PHRGE) at the School of Law, and teaching "Cyberlaw: Privacy, Ethics, and Digital Rights" for the interdisciplinary Information Assurance program at the College of Computer and Information Science. He holds a J.D. with distinction in Intellectual Property Law and an MLIS. He is a published author and frequent speaker on the topic of libraries and copyright.
 
 -
+  name: Colleen Cressman
+  title: Project Coordinator
+  current: true
+  bio: |
+    Colleen Cressman holds a Masters of Library and Information Science from Simmons College. Before joining OSC, Colleen worked at MIT to provide copyright guidance to faculty developing free online courses in the social sciences and humanities and as a digital collections assistant for the Open-Access Articles collection in DSpace@MIT.
+
+-
+  name: Colin B. Lukens
+  title: Repository Manager
+  current: true
+  bio: |
+    Colin B. Lukens holds a Masters of Library Science from Simmons College. Prior to joining OSC, he spent a decade at the Harvard University Archives in collection management, circulation, and preservation. He was recently President of the New England Archivists.
+
+-
   name: Dave Mayo
   title: Senior Digital Library Software Engineer
   current: true
   bio: |
     Dave Mayo holds a Masters in Library and Information Science from Simmons College.  Before joining the OSC, Dave spent three years on various grants producing and maintaining open source software for the Harvard Library.  Prior to working at Harvard, he worked for a local visual effects company.
+    
+-
+  name: Stuart M. Shieber
+  title: Faculty Director
+  current: true
+  bio: |
+     Stuart Shieber is James O. Welch, Jr. and Virginia B. Welch Professor of Computer Science in the School of Engineering and Applied Sciences at Harvard, and the OSC's faculty director. His primary research field is computational linguistics, the study of human languages from the perspective of computer science. He was the founding director of the Center for Research on Computation and Society and is a co-director of the Berkman Klein Center for Internet & Society. Professor Shieber led Harvard's efforts to institute open-access policies leading to the policies now in place at Harvard and emulated elsewhere.
+
+-
+  name: Peter Suber
+  title: Director
+  current: true
+  bio: |
+     Peter Suber is the Director of the Harvard Office for Scholarly Communication, Director of the Harvard Open Access Project, and a Senior Researcher at the Berkman Klein Center for Internet & Society. By training he's a philosopher and lawyer, and gave up his position as a tenured full professor of philosophy in 2003 to work full-time on open access. He was the principal drafter of the Budapest Open Access Initiative, sits on the boards of many groups devoted to open access and scholarly communication, and has been active in fostering open access for many years through his research, speaking, and writing. For more information, see [his home page](https://bit.ly/petersuber).
 
 -
   name: Maura Carbone
@@ -53,26 +73,7 @@
   current: false
   bio: |
     Becky Cremona holds a Master of Arts in Theology from Boston College and a Bachelor of Arts in Physics and Religious Studies from Brown University. Prior to joining the OSC, Becky worked as a faculty assistant at the Harvard School of Engineering and Applied Sciences.
-
--
-  name: Colin B. Lukens
-  title: Repository Manager
-  current: true
-  bio: |
-    Colin B. Lukens holds a Masters of Library Science from Simmons College. Prior to joining OSC, he spent a decade at the Harvard University Archives in collection management, circulation, and preservation. He was recently President of the New England Archivists.
-
-- name: Anne Britton
-  title: Open Access Assistant
-  current: true
-  bio: |
-    Anne Britton has served as a research assistant at the Harvard Open Access Project. She holds a Masters of Library Science from Simmons College.
-
--
-  name: Colleen Cressman
-  title: Project Coordinator
-  current: false
-  bio: |
-    Colleen Cressman holds a Masters of Library and Information Science from Simmons College. Prior to joining OSC, Colleen worked at MIT, where she provided copyright guidance to faculty developing free online courses in the social sciences and humanities. She also served as a digital collections assistant for open-access articles deposited in the DSpace@MIT repository.
+    
 -
   name: Arlene Navarro
   title: Staff Assistant
