@@ -79,7 +79,7 @@
 -
   name: Terry Fisher
   surname: Fisher
-  info: Hale and Dorr Professor of Intellectual Property Law and Faculty Director, Berkman Center for Internet and Society (HLS)
+  info: Hale and Dorr Professor of Intellectual Property Law and Faculty Director, Berkman Klein Center for Internet and Society (HLS)
   current: true
 
 -
@@ -114,18 +114,17 @@
 - name: Elizabeth Kirk
   surname: Kirk
   info: Associate University Librarian for Scholarly Resources (HL)
-  current: true
+  current: false
 
 -
   name: Isaac Kohane
   surname: Kohane
   info: Lawrence J. Henderson Professor of Pediatrics, Associate Professor of Medicine and Director, Countway Library of Medicine (HMS)
   current: true
-
 -
-  name: Sue Kriegsman
-  surname: Kriegsman
-  info: Associate Director, Berkman Center for Internet &amp; Society
+  name: Ardys Kozbial
+  surname: Kozbial
+  info: Assistant University Librarian for Content Strategies (HL)
   current: true
 
 -
