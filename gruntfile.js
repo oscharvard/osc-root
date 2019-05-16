@@ -307,7 +307,7 @@ module.exports = function (grunt) {
         options: {
           src: '<%= globalConfig.prodBuild %>/',
           dest: '/home/osc/prod/htdocs',
-          host: 'oscusr@augusta.lib.harvard.edu',
+          host: 'oscusr@osc-prod.lib.harvard.edu',
           delete: false // Careful this option could cause data loss, read the docs!
         }
       }
