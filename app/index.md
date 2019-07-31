@@ -10,5 +10,4 @@ The OSC also runs supporting programs such as:
 - [DASH](http://dash.harvard.edu/), Harvard's open-access repository;
 - [HOPE]({{site.baseurl}}/programs/hope/), a fund to reimburse processing fees for articles published in fee-based open-access journals;
 - [COPE](http://www.oacompact.org/), a multi-university compact to underwrite publication charges for fee-based open-access journals;
-- [ETDs @ Harvard](http://etds.lib.harvard.edu/about.html), the University's electronic thesis and dissertation submission system, managed by each participating school and maintained by the OSC;
 - Harvard's [Copyright Advisory Program](http://copyright.lib.harvard.edu/), including the [Copyright First Responders]({{site.baseurl}}/programs/copyright/first-responders/).
