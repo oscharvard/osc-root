@@ -19,3 +19,5 @@ I will provide an electronic copy of the author’s accepted manuscript of each 
 If I am a non-faculty employee or affiliate of Harvard University, and my work is normally covered by the work-for-hire doctrine, then I understand that this license only applies to my scholarly articles not covered by that doctrine.
 
 To sign the Individual Open-Access License, just sign our [assistance authorization form](https://osc.hul.harvard.edu/dash/authorization/).
+
+See our [frequently asked questions](https://osc.hul.harvard.edu/authors/faq/#individual-license) for more information about the Individual Open-Access License.
