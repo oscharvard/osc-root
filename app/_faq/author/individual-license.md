@@ -6,7 +6,7 @@ type: policy and license basics
 
 author-faq: include
 ---
-This a voluntary open-access license that any Harvard researchers may choose for their own scholarly articles. Because Harvard faculty are already covered by open-access licenses through the [school-level open-access policies](https://osc.hul.harvard.edu/policies/), in practice the individual open-access license is for non-faculty researchers, such as administrators, librarians, staff, postdocs, fellows, and students. 
+This a voluntary open-access license that any Harvard researchers may choose for their own scholarly articles. Because Harvard faculty are already covered by open-access licenses through the [school-level open-access policies](https://osc.hul.harvard.edu/policies/), in practice the [individual open-access license](https://osc.hul.harvard.edu/policies/ioal/) is for non-faculty researchers, such as administrators, librarians, staff, postdocs, fellows, and students. 
 
 Through the school-level open-access policies, faculty grant Harvard certain nonexclusive rights to their future scholarly articles. These enable Harvard to make a [certain version](#what-version) of those articles open access through [DASH](https://dash.harvard.edu/), Harvard's open-access repository. Moreover, they enable Harvard to grant the same rights back to the authors. The individual open-access license grants Harvard exactly the same set of nonexclusive rights, for exactly the [same purposes](#what-will-harvard-do). In that sense, it gives non-faculty researchers the [same benefits](#advantages) that the school-level policies give faculty. 
 
