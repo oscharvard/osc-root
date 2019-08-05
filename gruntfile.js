@@ -313,16 +313,6 @@ module.exports = function (grunt) {
       }
     },
 
-    if: {
-      syncOnBuild: {
-        options: {
-          config: 'globalConfig.localSync'
-        },
-        ifTrue: [ 'rsync:local' ],
-      }
-    }
-
-
   });
 
 
@@ -341,7 +331,6 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-bootlint');
   grunt.loadNpmTasks('grunt-link-checker');
   grunt.loadNpmTasks('grunt-rsync');
-  grunt.loadNpmTasks('grunt-if');
 
 
   // Hack to stop contrib concat (and maybe other things) from failing silently
@@ -363,7 +352,6 @@ module.exports = function (grunt) {
     'concat',
     'copy:hopeJs',
     'sass',
-    'if:syncOnBuild'
   ]);
   grunt.registerTask('rebuild', [
     'exec:jekyllClear',
