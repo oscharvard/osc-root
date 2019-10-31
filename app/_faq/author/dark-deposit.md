@@ -6,7 +6,7 @@ type: depositing articles in dash
 
 author-faq: include
 ---
-A dark deposit is a work in [DASH](https://dash.harvard.edu/) whose full text is not open access, even when information about the work (citation, abstract, etc.) is open access.
+A dark deposit is a work in [DASH](https://dash.harvard.edu/) whose full text is not open access, even when information about the work (citation, abstract, etc.) is open access. While they are not publicly accessible, dark deposits benefit authors by preserving their scholarship longterm. (Metadata associated with these deposits, however, is publicly accessible so that authors' scholarly records are discoverable.)
 
 We try to minimize dark deposits, and make all DASH deposits open access. But we make deposits dark in two circumstances:
 

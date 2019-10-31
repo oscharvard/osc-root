@@ -12,8 +12,10 @@ featured-actions-1:
 
 ---
 
+Please note: The HOPE Fund is temporarily closed. While HOPE will not be able to accept new applications until it is reopened, those applications that have already been submitted will continue to be reviewed. Thank you for your patience!
+
 The Harvard Open-Access Publishing Equity (HOPE) fund provides funds for the reimbursement of reasonable article processing fees for articles authored or co-authored by Harvard researchers published in [eligible open-access journals]({{site.baseurl}}/programs/hope/faq/#eligible-venues) for which no alternative funding is available.
 
-Members of the Harvard Community can apply for HOPE funds by completing a [webform](https://osc.hul.harvard.edu/dash/hope/).
+[Apply](https://osc.hul.harvard.edu/dash/hope/) for HOPE funds using your HarvardKey.
 
-The HOPE fund is Harvard's implementation of the [Compact for Open-Access Publishing Equity](http://www.oacompact.org/). 
+The HOPE fund is Harvard's implementation of the [Compact for Open-Access Publishing Equity](http://www.oacompact.org/).
