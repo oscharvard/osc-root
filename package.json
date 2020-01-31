@@ -7,22 +7,22 @@
   "license": "MIT",
   "devDependencies": {
     "grunt": ">=1.0.4",
-    "grunt-bootlint": ">=0.12.2",
-    "grunt-contrib-concat": ">=0.5.1",
-    "grunt-contrib-copy": ">=0.8.1",
+    "grunt-bootlint": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-cssmin": ">=3.0.0",
     "grunt-contrib-htmlmin": ">=3.1.0",
     "grunt-contrib-imagemin": ">=3.1.0",
     "grunt-contrib-uglify": ">=4.0.1",
-    "grunt-exec": ">=0.4.6",
-    "grunt-html": ">=5.0.1",
+    "grunt-exec": "^3.0.0",
+    "grunt-html": "^12.1.0",
     "grunt-link-checker": ">=0.2.0",
     "grunt-newer": ">=1.1.1",
-    "grunt-rsync": ">=3.0.0",
     "grunt-purifycss": ">=0.1.0",
+    "grunt-rsync": ">=3.0.0",
     "grunt-sass": "~2.1.0"
   },
   "dependencies": {
-    "node-sass": ">=4.12.0"
+    "node-sass": "^4.13.1"
   }
 }
