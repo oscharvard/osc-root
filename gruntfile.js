@@ -267,7 +267,7 @@ module.exports = function (grunt) {
     //////////
 
     // rsync
-    rsync: {
+    deploy: {
       options: {
         args: ['-cavz'],
         exclude: ['.DS_Store']
@@ -314,7 +314,6 @@ module.exports = function (grunt) {
     },
 
   });
-
 
 
   grunt.loadNpmTasks('grunt-newer');
@@ -385,7 +384,9 @@ module.exports = function (grunt) {
     'newer:uglify',
     'newer:copy:hopeAwards'
   ]);
-
+  
+  grunt.renameTask('rsync', 'deploy');
+  
   // Register build as the default task fallback
   grunt.registerTask('default', 'build');
 
