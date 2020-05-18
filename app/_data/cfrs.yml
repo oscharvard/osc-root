@@ -1,248 +1,264 @@
--
-  name: Leslie E. Burmeister
-  title: Information Research Specialist
+- 
+name: Jessica Suarez
+  location: Andover-Harvard Theological Library
+  email: jsuarez@hds.harvard.edu
+ 
+- 
+name: Rebecca Villarreal
+  location: Andover-Harvard Theological Library 
+  email: rvillarreal@hds.harvard.edu
+
+- 
+name: Leslie E. Burmeister
   location: Baker Library
   email: lburmeister@hbs.edu
-  phone: 617-496-0903
-
--
-  name: P. Scott Lapinski
-  title: Digital Resources and Services Librarian
-  location: Countway Medical Library
-  email: P_Lapinski@hms.harvard.edu
-  phone: 617-432-6784
-
--
-  name: Joanne Bloom
-  title: Photographic Resources Librarian
-  location: Fine Arts Library
-  email: toplyn@fas.harvard.edu
-  phone: 617-495-4656
-
--
-  name: Alix Reiskind
-  title: Visual Resources Librarian
-  location: Frances Loeb Library
-  email: areiskind@gsd.harvard.edu
-  phone: 617-496-5929
-
--
-  name: Hugh Truslow
-  title: Librarian; Librarian for the Davis Center Collection
-  location: Fung Library
-  email: truslow@fas.harvard.edu
-  phone: 617-495-4030
-
--
-  name: Carol R. Kentner
-  title: Digital Scholarship Librarian
-  location: Gutman Library
-  email: carol_kentner@gse.harvard.edu
-  phone: 617-496-4799
-
--
-  name: Emily Bell
-  title: Research Librarian
-  location: Lamont Library
-  email: emilybell@fas.harvard.edu
-  phone: 617-496-9988
-
--
-  name: Micah Jared Hoggatt
-  title: Reference Librarian
-  location: Houghton Library
-  email: mhoggatt@fas.harvard.edu
-  phone: 617-495-2440
-
--
-  name: Melinda Kent
-  title: Manager of Research Services
-  location: Law Library
-  email: mkent@law.harvard.edu
-  phone: 617-495-4454
-
--
-  name: Maggie E. Hale
-  title: Librarian for Collections Digitization
-  location: Preservation Services
-  email: mhale@fas.harvard.edu
-  phone: 617-384-9405
-
--
-  name: Jessica Evans Brady
-  title: Research and Collections Librarian
-  location: Fine Arts Library
-  email: jevansbrady@fas.harvard.edu
-  phone:
-
--
-  name: Kristin Stoklosa
-  title: E-Resources Licensing Specialist and Sciences Coordinator
-  location: Harvard Library
-  email: stoklosa@fas.harvard.edu
-  phone: 617-384-7167
-
--
-  name: Noelle Ryan
-  title: E-Resource Licensing Specialist
-  location: Harvard Library
-  email: noelle_ryan@harvard.edu
-  phone: 617-384-7437
-
--
-  name: Diana Carey
-  title: Research Librarian, Visual Resources
-  location: Schlesinger Library
-  email: dcarey@radcliffe.harvard.edu
-  phone: 617-495-8539
-
--
-  name: Juliana Kuipers
-  title: Collection Development Curator/Archivist
-  location: University Archives
-  email: juliana_kuipers@harvard.edu
-  phone: 617-384-7787
-
--
-  name: Thomas Lingner
-  title: Customer Service Manager, Preservation, Conservation & Digital Imaging
-  location: Preservation Services
-  email: lingner@fas.harvard.edu
-  phone: 617-495-3995
-
--
-  name: Alex Caracuzzo
-  title: Collections and Data Management Librarian
-  location: Baker Library
-  email: acaracuzzo@hbs.edu
-  phone: 617-495-2492
-
--
-  name: Shalimar Fojas White
-  title: Acting Librarian and Collection Development Librarian
-  location: Fine Arts Library
-  email: shalimar_white@harvard.edu
-  phone: 617-495-0678
-
--
-  name: Rebecca Y. Martin
-  title: Collections Strategist and Scholarly Communications Librarian
-  location: Gutman Library
-  email: rebecca_martin@gse.harvard.edu
-  phone:
-
--
-  name: Isabella Donadio
-  title: Permission and Image Research Coordinator
-  location: Harvard Art Museums
-  email: isabella_donadio@harvard.edu
-  phone: 617-495-8211
-
--
-  name: Michelle Anna Interrante
-  title: Archives Assistant
-  location: Harvard Art Museums
-  email: michelle_interrante@harvard.edu
-  phone: 617-384-7983
-
--
-  name: Susan Gilman
-  title: Research Librarian
-  location: Harvard College Library
-  email: sgilman@fas.harvard.edu
-  phone: 617-496-9534
-
--
-  name: Susan Gilroy
-  title: Librarian for Undergraduate Programs for Writing
-  location: Harvard College Library
-  email: sgilroy@fas.harvard.edu
-  phone: 617-496-5403
-
--
-  name: Bassey Irele
-  title: Librarian for Sub-Saharan Africa
-  location: Harvard College Library
-  email: birele@fas.harvard.edu
-  phone: 617-495-3559
-
--
-  name: Lynn M. Shirey
-  title: Librarian for Latin America Spain and Portugal in the Widener Library of the Harvard College Library
-  location: Harvard College Library
-  email: shirey@fas.harvard.edu
-  phone: 617-495-2427
-
--
-  name: Lisa Lilliott
-  title: Faculty Research and Scholarly Support
-  location: Law Library
-  email: llilliott@law.harvard.edu
-  phone:
-
--
-  name: Vitaly Zakuta
-  title: Digital Projects Librarian
-  location: Library Technology Services
-  email: vitaly_zakuta@harvard.edu
-  phone: 617-998-5459
-
-- name: Heather Oswald
-  title: Manager, Public Services, Special Collections
+ 
+- 
+name: Heather Oswald
   location: Baker Library
   email: hoswald@hbs.edu
-  phone: 617-496-7944
+ 
+-
+name: Rhys Sevier
+ location: Baker Library
+ email: rsevier@hbs.edu
+ 
+- 
+name: Meg Edison
+  location: Baker Library
+  email: medison@hbs.edu
 
-- name: Carolyn Damon Hayes
-  title: Acquisitions Archivist
-  location: Countway Medical Library
+- 
+name: Tina Qin
+  location: Cabot Library	
+  email: tina_qin@harvard.edu
+ 
+- 
+name: Scott Lapinski
+  location: Countway Library
+  email: psl6@hms.harvard.edu
+ 
+- 
+name: Carolyn Hayes
+  location: Countway Library
   email: carolyn_hayes@hms.harvard.edu
-  phone: 617-432-1324
 
-- name: Carla M. Lillvik
-  title: Research & Distance Services Librarian
+- 
+name: Jessica Evans Brady
+  location: Fine Arts Library
+  email: jevansbrady@fas.harvard.edu
+ 
+- 
+name: Shalimar Fojas White
+  location: Fine Arts Library
+  email: shalimar_white@harvard.edu
+ 
+- 
+name: Joanne Bloom
+  location: Fine Arts Library
+  email: toplyn@fas.harvard.edu
+
+- 
+name: Sarah Dickinson
+  location: Frances Loeb Library
+  email: sdickinson@gsd.harvard.edu
+ 
+- 
+name: Alix Reiskind
+  location: Frances Loeb Library
+  email: areiskind@gsd.harvard.edu
+
+- 
+name: Hugh Truslow
+  location: Fung Library
+  email: truslow@fas.harvard.edu
+
+- 
+name: Carol Kentner
+  location: Gutman Library
+  email: carol_kentner@gse.harvard.edu	
+ 
+- 
+name: Carla Lillvik
   location: Gutman Library
   email: carla_lillvik@gse.harvard.edu
-  phone: 617-496-0682
+ 
+- 
+name: Rebecca Martin
+  location: Gutman Library
+  email: rebecca_martin@gse.harvard.edu
+ 
+- 
+name: Ning Zou
+  location: Gutman Library
+  email: ning_zou@gse.harvard.edu
+ 
+- 
+name: Michelle Interrante
+  location: Harvard Art Museums
+  email: michelle_interrante@harvard.edu
+ 
+- 
+name: Amy Butler
+  location: Harvard Business School
+  email: abutler@hbs.edu
 
-- name: Anne-Marie Taylor
-  title: Resource Sharing Coordinator
-  location: Harvard Library
-  email: antaylor@law.harvard.edu
-  phone: 617-495-5093
+- 
+name: Emily Bell
+  location: Lamont Library
+  email: emilybell@fas.harvard.edu
+ 
+- 
+name: Micah Hoggatt
+  location: Houghton Library
+  email: mhoggatt@fas.harvard.edu
+ 
+- 
+name: Bassey Irele
+  location: Widener Library
+  email: birele@fas.harvard.edu
 
-- name: Christina H. Sirios
-  title: Associate Director of Library and Knowledge Services
-  location: Kennedy Library
+- 
+name: Amy Sloper
+  location: Harvard Film Archive
+  email: amy_sloper@harvard.edu
+ 
+- 
+name: Nancy B. Quinn
+  location: Harvard Library, Information & Technical Services
+  email: bojan@fas.harvard.edu
+ 
+- 
+name: Julie Petzold
+  location: Harvard Library, Access Services (Gutman and Kennedy)
+  email: julie_petzold@harvard.edu 
+ 
+- 
+name: Maggie Hale
+  location: Imaging Services, Digital Strategies and Innovation
+  email: mhale@fas.harvard.edu
+ 
+- 
+name: Thomas Lingner
+  location: Imaging Services, Digital Strategies and Innovation
+  email: lingner@fas.harvard.edu
+
+-
+name: Kristin Stoklosa
+  location: Harvard Library, Information & Technical Services
+  email: stoklosa@fas.harvard.edu
+ 
+- 
+name: Ivonne Nolasco
+  location: Harvard Library, Information & Technical Services
+  email: ivonnenolasco@fas.harvard.edu 
+
+- 
+name: Nicholas M. Redler
+  location: HarvardX
+  Email: nicholas_redler@harvard.edu
+
+- 
+name: Micah Jared Hoggatt
+  location: Houghton Library
+  email: mhoggatt@fas.harvard.edu
+ 
+- 
+name: Christin Elizabeth Jacobson
+  location: Houghton Library
+  email: christine_jacobson@harvard.edu
+
+- 
+name: Corinne Wolfson
+  location: Harvard Kennedy School Library & Knowledge Services
+  email: corinne_wolfson@hks.harvard.edu	
+ 
+- 
+name: Alessandra Seiter
+  location: Harvard Kennedy School Library & Knowledge Services
+  email: alessandra_seiter@hks.harvard.edu
+ 
+- 
+name: Christina Sirois
+  location: Harvard Kennedy School Library & Knowledge Services
   email: christina_sirois@hks.harvard.edu
-  phone: 617-495-5078
-
-- name: Corrinne Wolfson
-  title: Digital Collections Coordinator
-  location: Kennedy Library
-  email: corinne_wolfson@hks.harvard.edu
-  phone: 617-495-4882
-
-- name: Emily Coolidge Toker
-  title: Learning Technology Specialist
+ 
+- 
+name: Emily Coolidge Toker
   location: Lamont Library
   email: emily_coolidgetoker@harvard.edu
-  phone: 617-496-2373
+ 
+- 
+name: Sue Gilroy
+  location: Lamont Library
+  email: sgilroy@fas.harvard.edu
 
-- name: Colin Lukens
-  title: Repository Manager
-  location: Office for Scholarly Communication
-  email: colin_lukens@harvard.edu
-  phone: 617-495-1269
+- 
+name: AJ Blechner
+  location: Law Library
+  email: ablechner@law.harvard.edu
+ 
+- 
+name: Melinda Kent
+  location: Law Library
+  email: mkent@law.harvard.edu
+ 
+- 
+name: Lisa Lilliott
+  location: Law Library
+  email: llilliott@law.harvard.edu
+ 
+- 
+name: Rachel Parker
+  location: Law Library
+  email: rparker@law.harvard.edu
 
-- name: Joanne Donovan
-  title: Lead Archivist, Visual Materials and Recorded Sound Collections
+- 
+name: Vitaly Zakuta 
+  location: Library Technology Services
+  email: vitaly_zakuta@harvard.edu
+ 
+- 
+name: Kerry Masteller
+  location: Loeb Music Library
+  email: kmastell@fas.harvard.edu	
+
+- 
+name: Colin Lukens
+  location: OSC
+  email: colin_lukens@harvard.edu			
+ 
+- 
+name: Colleen Cressman
+  location: OSC
+  email: colleen_cressman@harvard.edu
+
+- 
+name: Cynthia Mackey
+  location: Peabody Museum of Archaeology and Ethnology
+  email: cynthia_mackey@fas.harvard.edu
+
+- 
+name: Joanne Donovan
   location: Schlesinger Library
   email: jdonovan@radcliffe.harvard.edu
-  phone: 617-495-8551
+ 
+- 
+name: Diana Carey	
+  location: Schlesinger Library
+  email: dcarey@radcliffe.harvard.edu	
 
-- name: Olivia Mandica-Hart
-  title: Processing Archivist
+- 
+name: Susan Gilman
+  location: Tozzer Library
+  email: sgilman@fas.harvard.edu
+
+- 
+name: Olivia Mandica-Hart
   location: University Archives
   email: olivia_mandica-hart@harvard.edu
-  phone: 617-998-5240
+ 
+- 
+name: Juliana Kuipers
+  location: University Archives
+  email: juliana_kuipers@harvard.edu
