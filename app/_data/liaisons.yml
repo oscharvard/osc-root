@@ -3,8 +3,6 @@ galvin-john:
   current: true
   name: John Galvin
   email: jgalvin@hbs.edu
-  phone: 617-496-3167
-  title: Assistant Director
   location: Case Service Center
 
 kalnins-renata:
@@ -12,8 +10,6 @@ kalnins-renata:
   current: true
   name: Renata Kalnins
   email: rkalnins@hds.harvard.edu
-  phone: 617-384-7488
-  title: Research Librarian
   location: Andover-Harvard Theological Library
 
 bell-emily:
@@ -21,8 +17,6 @@ bell-emily:
   current: true
   name: Emily Bell
   email: emilybell@fas.harvard.edu
-  phone: 617-496-9988
-  title: Research Librarian
   location: Lamont Library
 
 dickson-sarah:
@@ -30,8 +24,6 @@ dickson-sarah:
   current: true
   name: Sarah W. Dickinson
   email: sdickinson@gsd.harvard.edu
-  phone: 617-496-1332
-  title: Research Support Services Librarian
   location: Frances Loeb Library
 
 kentner-carol:
@@ -39,8 +31,6 @@ kentner-carol:
   current: true
   name: Carol Kenter
   email: carol_kentner@gse.harvard.edu
-  phone: 617-496-4799
-  title: Digital Course Content Manager
   location: Gutman Library
 
 martin-rebecca:
@@ -48,16 +38,13 @@ martin-rebecca:
   current: true
   name: Rebecca Y. Martin
   email: rebecca_martin@gse.harvard.edu
-  title: Collections Strategist and Scholarly Communications Librarian
   location: Gutman Library
 
-weis-valerie:
+sirois-christina:
   liaison-to: HKS
   current: true
-  name: Valerie Weis
-  email: valerie_weis@hks.harvard.edu
-  phone: 617-496-1775
-  title: Research and Knowledge Services Librarian
+  name: Christina Sirois
+  email: christina_sirois@hks.harvard.edu
   location: HKS Library and Knowledge Services
 
 casey-june:
@@ -65,8 +52,6 @@ casey-june:
   current: true
   name: June Casey
   email: jucasey@law.harvard.edu
-  phone: 617-495-4492
-  title: Research Librarian for Open Access Initiatives and Scholarly Communication
   location: Harvard Law School Library
 
 lapinski-scott:
@@ -74,8 +59,6 @@ lapinski-scott:
   current: true
   name: P. Scott Lapinski
   email: p_lapinski@hms.harvard.edu
-  phone: 617-432-6784
-  title: Digital Resources and Services Librarian
   location: Countway Library
 
 spickard-amanda:
@@ -83,5 +66,4 @@ spickard-amanda:
   current: true
   name: Amanda B. Spickard
   email: aspickar@hsph.harvard.edu
-  phone: 617-432-1711
-  title: Director of Research Strategy and Development
+  location: School of Public Health
