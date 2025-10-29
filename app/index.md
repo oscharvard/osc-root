@@ -3,9 +3,7 @@ layout: full-page
 title: Home
 ---
 ## Take Note 
-  **The Office for Scholarly Communication is now Open Scholarship and Research Data Services (OSRDS) at [Harvard Library](https://library.harvard.edu). Unifying the former Research Data Management Program and OSC, OSRDS supports the creation, sharing, and reuse of scholarship and research data. Our areas of expertise include open access, [DASH](http://dash.harvard.edu/) and other open repositories, research data, and scholarly publishing.**
-
-  **Looking for a policy? Visit the new hub for all the [Harvard Open Access Policies](https://library.harvard.edu/harvard-open-access-policies).**
+  **The Office for Scholarly Communication is now Open Scholarship and Research Data Services (OSRDS) at [Harvard Library](https://library.harvard.edu). OSRDS supports the creation, sharing, and reuse of scholarship and research data. We continue to steward the [Harvard Open Access Policies](https://library.harvard.edu/harvard-open-access-policies), which you may access in their new location.**
 
 ***
 
